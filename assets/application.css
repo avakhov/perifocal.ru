@@ -206,7 +206,7 @@ nav.menu UL LI.first {
   margin:0;
 }
 
-nav.menu UL LI A {
+nav.menu UL LI SPAN {
   display:block;
   float:left;
   width:234px;
