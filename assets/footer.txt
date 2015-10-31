@@ -1,0 +1,17 @@
+    </div>
+  </div>
+  <footer>
+    <div class='footer-pd'>
+      <h1 class='h-news'>&nbsp;</h1>
+      <h1>Контакты</h1>
+      <div class='contacts'>
+        <span>+7 (495) 331 66 11<br>+7 (499) 723 04 08</span>
+        ул. Каховка, д. 33, стр. 1
+      </div>
+      <div class='copy-design'>
+        <div class='copy'>Все права защищены ООО “АртОптика”</div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
