@@ -250,15 +250,15 @@ article.article UL {
 }
 
 article.article UL LI {
-  float:left;
-  width:220px;
+  /* float:left; */
+  /* width:220px; */
   padding:15px 25px 0 0;
   line-height:130%;
   letter-spacing:1px;
 }
 
 article.article.article_wide UL LI {
-  width:290px;
+  /* width:290px; */
 }
 
 article.article ul li a {
